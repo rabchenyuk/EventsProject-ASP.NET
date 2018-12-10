@@ -28,6 +28,30 @@ span.field-validation-error {
     font-weight: bold;
 }
 
+.voffset { 
+    margin-top: 2px ;
+}
+
+.voffset1 {
+    margin-top: 5px;
+}
+
+.voffset2 {
+    margin-top: 10px;
+}
+
+.voffset3 {
+    margin-top: 20px;
+}
+
+.voffset4 {
+    margin-top: 40px;
+}
+
+.voffset5 {
+    margin-top: 80px;
+}
+
 /* Bootstrap overrides */
 body,
 .tooltip,
@@ -77,8 +101,8 @@ body,
 }
 
 .btn {
-    font-size: 17px;
-    padding: 7px 20px;
+    /*font-size: 17px;
+    padding: 7px 20px;*/
     border-radius: 9px;
 }
 
