@@ -8,7 +8,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace GigHub.Controllers
+namespace GigHub.Controllers.API
 {
     [Authorize]
     public class FollowingsController : ApiController
